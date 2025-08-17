@@ -1,4 +1,4 @@
-package com.devian.todolist;
+package com.devian.todolist.backend;
 
 
 import jakarta.persistence.*;
